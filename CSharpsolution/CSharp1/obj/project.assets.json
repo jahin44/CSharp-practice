@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CSharpsolution\\CSharp1\\CSharp1.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-practice\\CSharpsolution\\CSharp1\\CSharp1.csproj",
       "projectName": "CSharp1",
-      "projectPath": "D:\\GitHub\\CSharpsolution\\CSharp1\\CSharp1.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-practice\\CSharpsolution\\CSharp1\\CSharp1.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CSharpsolution\\CSharp1\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-practice\\CSharpsolution\\CSharp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
