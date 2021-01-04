@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp1", "CSharp1\CSharp1.csproj", "{FEDC7FDA-6433-45A6-AD40-CFB6E8885419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "split_a_string", "CSharp1\split_a_string.csproj", "{FEDC7FDA-6433-45A6-AD40-CFB6E8885419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data type and basic", "data type and basic\data type and basic.csproj", "{A134E772-54DF-4F2C-9728-AA9898261942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array multi array and random function", "data type and basic\array multi array and random function.csproj", "{A134E772-54DF-4F2C-9728-AA9898261942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add string number", "Add string number\Add string number.csproj", "{1F381514-3D84-471D-8F4D-0F353E3A56C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A134E772-54DF-4F2C-9728-AA9898261942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A134E772-54DF-4F2C-9728-AA9898261942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A134E772-54DF-4F2C-9728-AA9898261942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F381514-3D84-471D-8F4D-0F353E3A56C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F381514-3D84-471D-8F4D-0F353E3A56C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F381514-3D84-471D-8F4D-0F353E3A56C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F381514-3D84-471D-8F4D-0F353E3A56C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
