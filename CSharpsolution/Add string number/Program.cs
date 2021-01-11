@@ -16,8 +16,8 @@ namespace Add_string_number
             string num1 = linePart[1];
             int val0 = num0.Length;
             int iv0 = val0;
-            int val1 = num1.Length;
-            int iv1 = val1;
+            int val1 =num1.Length;
+            int iv1 =val1;
           /*  Console.WriteLine(val0);
             Console.WriteLine(val1)*/;
             int arraySize;
