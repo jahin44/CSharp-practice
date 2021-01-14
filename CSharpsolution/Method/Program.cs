@@ -34,8 +34,8 @@ namespace CalculatorApplication
                 NumberManipulator n = new NumberManipulator();
 
                 //calling the FindMax method
-                ret = n.FindMax(a, b);
-                Console.WriteLine("Max value is : {0}",ret);
+                ret =  n.FindMax(a, b);
+                Console.WriteLine(" Max value  is : {0}",ret);
                 Console.ReadLine();
             }
         }
