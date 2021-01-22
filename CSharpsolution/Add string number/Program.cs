@@ -14,7 +14,7 @@ namespace Add_string_number
             string num0 = linePart[0];
             
             string num1 = linePart[1];
-            int val0 = num0.Length;
+            int val0 =num0.Length;
             int iv0 = val0;
             int val1 =num1.Length;
             int iv1 =val1;
