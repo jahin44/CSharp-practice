@@ -11,7 +11,7 @@ namespace CSharp1
             string[] linepart = line.Split(' ',',') ;//split as , and " " 
             foreach(string a in linepart)
             {
-                Console.WriteLine(a);
+                  Console.WriteLine(a);
             }
 
         }
