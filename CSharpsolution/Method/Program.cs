@@ -4,10 +4,10 @@ namespace Method
 {
     class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)
         {
         
-using System;
+ using System;
 
 namespace CalculatorApplication
     {
