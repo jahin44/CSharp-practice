@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple", "Tuple\Tuple.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class", "class\class.csproj", "{FE786B3C-245B-45A4-9E48-D08E9E4BD61C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_object", "Class_object\Class_object.csproj", "{14546044-FDD5-42A9-9290-1F11F935CFEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class_object", "Class_object\Class_object.csproj", "{14546044-FDD5-42A9-9290-1F11F935CFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{048110C6-D633-4761-B231-634966F32FBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{14546044-FDD5-42A9-9290-1F11F935CFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14546044-FDD5-42A9-9290-1F11F935CFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14546044-FDD5-42A9-9290-1F11F935CFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048110C6-D633-4761-B231-634966F32FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048110C6-D633-4761-B231-634966F32FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048110C6-D633-4761-B231-634966F32FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048110C6-D633-4761-B231-634966F32FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

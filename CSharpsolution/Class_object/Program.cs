@@ -17,6 +17,10 @@ namespace Class_object
             Program obje = new Program();
             Console.WriteLine("Hello World!");
             Console.WriteLine(obje.joy);
+
+            GetSet obj = new GetSet();
+            Console.WriteLine(obj.Name = "jhin");
+
         
         }
     }
