@@ -4,16 +4,29 @@ using System.Text;
 
 namespace Inheritance
 {
-    class Child : parents, Base 
+    class Child : parents
     {
-        public void ChildFunction()
+        public override void parentsFunction()
         {
-            parentsFunction();
-            Console.WriteLine("This is Child Function");
+            base.parentsFunction();           
+            Console.WriteLine("This is Child Function override");
         }
 
 
+    }
 
+    class child2nd : parents
+    {
+        public override void parentsFunction()
+        {
+            base.parentsFunction();
+            Console.WriteLine("chiled2nd override");
+        }
 
     }
+
+
+
+
+
 }

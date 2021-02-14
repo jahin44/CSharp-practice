@@ -7,7 +7,10 @@ namespace Inheritance
     class Derived : Base 
     {
         public string name;
-        Base jahin=new Base();
+        public override BaseFunction(string nam)
+        {
+
+        }
         public void Inherit()
         {
             name = BaseFunction("BMW");

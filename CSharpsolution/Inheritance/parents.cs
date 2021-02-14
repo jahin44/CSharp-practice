@@ -7,7 +7,7 @@ namespace Inheritance
     class parents
     {
 
-        public void parentsFunction()
+        public virtual void parentsFunction()
         {   string joy;
             Console.WriteLine("inside the parentsFunction");
             string subFunction(string joy)
