@@ -7,7 +7,7 @@ namespace Class
         public string Name;
         public void person(string name)
         {
-            Console.WriteLine(name);
+             Console.WriteLine(name);
         }
     }
         class Program
