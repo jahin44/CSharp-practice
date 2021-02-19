@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class_object", "Class_objec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{048110C6-D633-4761-B231-634966F32FBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceLib", "EcommerceLib\EcommerceLib.csproj", "{0BC37719-2235-4926-9389-06A50B8AA7DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceLib", "EcommerceLib\EcommerceLib.csproj", "{0BC37719-2235-4926-9389-06A50B8AA7DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{74234451-1E3F-44E8-94A0-F60E1472DD48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceProduct", "EcommerceProduct\EcommerceProduct.csproj", "{DCCC4662-DE1B-4E98-904C-5ED7DF450A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceProduct", "EcommerceProduct\EcommerceProduct.csproj", "{DCCC4662-DE1B-4E98-904C-5ED7DF450A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classpractice", "Classpractice\Classpractice.csproj", "{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +103,10 @@ Global
 		{DCCC4662-DE1B-4E98-904C-5ED7DF450A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCCC4662-DE1B-4E98-904C-5ED7DF450A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCCC4662-DE1B-4E98-904C-5ED7DF450A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

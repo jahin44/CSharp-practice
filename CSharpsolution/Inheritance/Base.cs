@@ -11,7 +11,7 @@ namespace Inheritance
         public int wheel;
         public bool IsTrue;
 
-        public abstract void BaseFunction()
+        public  void BaseFunction()
         {     
             Console.WriteLine(wheel);
             Console.WriteLine(IsTrue);
