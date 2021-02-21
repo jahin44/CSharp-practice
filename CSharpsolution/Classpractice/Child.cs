@@ -4,18 +4,18 @@ using System.Text;
 
 namespace Classpractice
 {
-    public class Child : Base
+    public class Child :Base
     {
-        
-        
+
         public override void  method()
         {
+            
             Console.WriteLine(Name+" In child Class");
             
         }
         public override void Person()
         {
-            Console.WriteLine("Jahin hasan");
+            Console.WriteLine($"Name: {Name} Age: {age}");
         }
     }
 }

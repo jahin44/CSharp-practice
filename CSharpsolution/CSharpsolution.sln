@@ -35,7 +35,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{74
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceProduct", "EcommerceProduct\EcommerceProduct.csproj", "{DCCC4662-DE1B-4E98-904C-5ED7DF450A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classpractice", "Classpractice\Classpractice.csproj", "{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classpractice", "Classpractice\Classpractice.csproj", "{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONETDataBase", "ADONETDataBase\ADONETDataBase.csproj", "{2FEF6864-6B18-46EB-80D0-CA0EBA45F32F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +109,10 @@ Global
 		{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FBE899A-7C54-4AD0-B9F7-003B2B1EEC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FEF6864-6B18-46EB-80D0-CA0EBA45F32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEF6864-6B18-46EB-80D0-CA0EBA45F32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEF6864-6B18-46EB-80D0-CA0EBA45F32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEF6864-6B18-46EB-80D0-CA0EBA45F32F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
