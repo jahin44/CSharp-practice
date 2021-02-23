@@ -6,13 +6,13 @@ namespace ADONETDataBase
 {
     class Program
     {
-        private const string CONNECTION_STRING = "Server=DESKTOP-9UKEJ28\\SQLEXPRESS;Database=CSharpData;User Id = admin; Password=123456;";
+       // private const string CONNECTION_STRING = "Server=DESKTOP-9UKEJ28\\SQLEXPRESS;Database=CSharpData;User Id = admin; Password=123456;";
         static void Main(string[] args)               
         {
             SqlConnection connection = new SqlConnection(CONNECTION_STRING);
             // RunInsertCommand(connection);
             // RunReadExecution(connection);
-            DataTableReadExample(connection);
+           // DataTableReadExample(connection);
 
         }
 
