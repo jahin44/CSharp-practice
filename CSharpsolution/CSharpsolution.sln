@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classpractice", "Classpract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADONETDataBase", "ADONETDataBase\ADONETDataBase.csproj", "{2FEF6864-6B18-46EB-80D0-CA0EBA45F32F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramWorkDataBase", "EntityFramWorkDataBase\EntityFramWorkDataBase.csproj", "{57CDC546-8AC7-409B-AF86-DD2F42CCBB49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFramWorkDataBase", "EntityFramWorkDataBase\EntityFramWorkDataBase.csproj", "{57CDC546-8AC7-409B-AF86-DD2F42CCBB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{FB4D0306-1A11-41A3-8697-1AA41641EE2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -119,6 +121,10 @@ Global
 		{57CDC546-8AC7-409B-AF86-DD2F42CCBB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57CDC546-8AC7-409B-AF86-DD2F42CCBB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57CDC546-8AC7-409B-AF86-DD2F42CCBB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4D0306-1A11-41A3-8697-1AA41641EE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4D0306-1A11-41A3-8697-1AA41641EE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4D0306-1A11-41A3-8697-1AA41641EE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4D0306-1A11-41A3-8697-1AA41641EE2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
