@@ -14,7 +14,7 @@ namespace Delegate
         static void Main(string[] args)
         {
        
-            sum(a);
+              sum(1);
 
 
 

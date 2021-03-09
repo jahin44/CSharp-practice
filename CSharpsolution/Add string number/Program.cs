@@ -9,7 +9,7 @@ namespace Add_string_number
 
             string inputString = Console.ReadLine();
 
-            string[] linePart = inputString.Split(' ', ',', '\n');  // split as , and " " and new line
+            string[] linePart = inputString.Split(' ', ',', '\n');  //  split as , and " " and new line
            /* Console.WriteLine(linePart[1]);*/
             string num0 = linePart[0];
             
