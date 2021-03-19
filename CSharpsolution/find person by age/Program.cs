@@ -11,8 +11,8 @@ namespace find_person_by_age
 
             for (int i = 0; i < 4; i++)
             {
-                    name[i] = Console.ReadLine();
-                    age[i] = Convert.ToInt32(Console.ReadLine());
+                 name[i] = Console.ReadLine();
+                 age[i] = Convert.ToInt32(Console.ReadLine());
             
             }
             for (int i = 0; i < 10; i++)
