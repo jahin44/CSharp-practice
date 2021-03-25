@@ -67,9 +67,9 @@ namespace EntityFrameworkExample
         }
         public static void DeleteData(CustomerContext customerContext)
         {
-              var customer = customerContext.Customers.Where(x => x.Id <= 1).FirstOrDefault();
-              customerContext.Customers.Remove(customer);
-              customerContext.SaveChanges();
+               var customer = customerContext.Customers.Where(x => x.Id <= 1).FirstOrDefault();
+               customerContext.Customers.Remove(customer);
+               customerContext.SaveChanges();
 
 
 
