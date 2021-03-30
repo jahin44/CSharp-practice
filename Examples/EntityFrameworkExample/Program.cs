@@ -12,8 +12,8 @@ namespace EntityFrameworkExample
         static void Main(string[] args)
         {
 
-           var customerContext = new CustomerContext();
-           var shoppingContext = new ShoppingContext();
+             var customerContext = new CustomerContext();
+             var shoppingContext = new ShoppingContext();
 
          //GetData(customerContext);
 
