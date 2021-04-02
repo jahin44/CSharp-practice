@@ -83,12 +83,12 @@ namespace EntityFrameworkExample
             };
             var product = new Product
             {
-                Name = "Camera ",
-                Price = 2000,
-                Images = new List<ProductImage>
+                 Name = "Camera ",
+                 Price = 2000,
+                 Images = new List<ProductImage>
                 {
-                    new ProductImage{Url = "www.google.com/camer1.png"},
-                    new ProductImage{Url = "www.google.com/camer2.png"},
+                     new ProductImage{Url = "www.google.com/camer1.png"},
+                     new ProductImage{Url = "www.google.com/camer2.png"},
                 }
 
             };
