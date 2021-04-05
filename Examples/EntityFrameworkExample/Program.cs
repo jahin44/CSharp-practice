@@ -92,9 +92,9 @@ namespace EntityFrameworkExample
                 }
 
             };
-            shoppingContext.category.Add(category);
-            shoppingContext.Products.Add(product);
-            shoppingContext.SaveChanges();
+             shoppingContext.category.Add(category);
+             shoppingContext.Products.Add(product);
+             shoppingContext.SaveChanges();
 
         
         }
