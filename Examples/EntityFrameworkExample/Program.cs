@@ -35,8 +35,8 @@ namespace EntityFrameworkExample
             };
             var customer3 = new Customer
             {
-                Name = "Taher",
-                Address = "Nandiel"
+               Name = "Taher",
+               Address = "Nandiel"
 
             };
 
